@@ -1,0 +1,911 @@
+# This is a comment. Lines starting with # are ignored.
+
+# Add your questions here in the format:
+
+# English Sentence;German Verb;Full German Answer
+
+# --- Verb: sein (to be) ---
+
+I am;sein;ich bin
+You are (informal);sein;du bist
+He is;sein;er ist
+She is;sein;sie ist
+It is;sein;es ist
+We are;sein;wir sind
+You are (plural);sein;ihr seid
+They are;sein;sie sind
+You are (formal);sein;Sie sind
+
+# --- Verb: haben (to have) ---
+
+I have;haben;ich habe
+You have (informal);haben;du hast
+He has;haben;er hat
+She has;haben;sie hat
+It has;haben;es hat
+We have;haben;wir haben
+You have (plural);haben;ihr habt
+They have;haben;sie haben
+You have (formal);haben;Sie haben
+
+# --- Verb: werden (to become) ---
+
+I am becoming;werden;ich werde
+You are becoming (informal);werden;du wirst
+He is becoming;werden;er wird
+We are becoming;werden;wir werden
+You are becoming (plural);werden;ihr werdet
+They are becoming;werden;sie werden
+
+# --- Verb: können (can, to be able to) ---
+
+I can;können;ich kann
+You can (informal);können;du kannst
+He can;können;er kann
+We can;können;wir können
+You can (plural);können;ihr könnt
+They can;können;sie können
+
+# --- Verb: müssen (must, to have to) ---
+
+I must;müssen;ich muss
+You must (informal);müssen;du musst
+He must;müssen;er muss
+We must;müssen;wir müssen
+You must (plural);müssen;ihr müsst
+They must;müssen;sie müssen
+
+# --- Verb: sagen (to say) ---
+
+I say;sagen;ich sage
+You say (informal);sagen;du sagst
+He says;sagen;er sagt
+We say;sagen;wir sagen
+You say (plural);sagen;ihr sagt
+They say;sagen;sie sagen
+
+# --- Verb: machen (to do, make) ---
+
+I make;machen;ich mache
+You make (informal);machen;du machst
+He makes;machen;er macht
+We make;machen;wir machen
+You make (plural);machen;ihr macht
+They make;machen;sie machen
+
+# --- Verb: geben (to give) ---
+
+I give;geben;ich gebe
+You give (informal);geben;du gibst
+He gives;geben;er gibt
+We give;geben;wir geben
+You give (plural);geben;ihr gebt
+They give;geben;sie geben
+
+# --- Verb: kommen (to come) ---
+
+I come;kommen;ich komme
+You come (informal);kommen;du kommst
+He comes;kommen;er kommt
+We come;kommen;wir kommen
+You come (plural);kommen;ihr kommt
+They come;kommen;sie kommen
+
+# --- Verb: sollen (should, ought to) ---
+
+I should;sollen;ich soll
+You should (informal);sollen;du sollst
+He should;sollen;er soll
+We should;sollen;wir sollen
+You should (plural);sollen;ihr sollt
+They should;sollen;sie sollen
+
+# --- Verb: wollen (to want) ---
+
+I want;wollen;ich will
+You want (informal);wollen;du willst
+He wants;wollen;er will
+We want;wollen;wir wollen
+You want (plural);wollen;ihr wollt
+They want;wollen;sie wollen
+
+# --- Verb: gehen (to go) ---
+
+I go;gehen;ich gehe
+You go (informal);gehen;du gehst
+He goes;gehen;er geht
+We go;gehen;wir gehen
+You go (plural);gehen;ihr geht
+They go;gehen;sie gehen
+
+# --- Verb: wissen (to know) ---
+
+I know;wissen;ich weiß
+You know (informal);wissen;du weißt
+He knows;wissen;er weiß
+We know;wissen;wir wissen
+You know (plural);wissen;ihr wisst
+They know;wissen;sie wissen
+
+# --- Verb: sehen (to see) ---
+
+I see;sehen;ich sehe
+You see (informal);sehen;du siehst
+He sees;sehen;er sieht
+We see;sehen;wir sehen
+You see (plural);sehen;ihr seht
+They see;sehen;sie sehen
+
+# --- Verb: lassen (to let, allow) ---
+
+I let;lassen;ich lasse
+You let (informal);lassen;du lässt
+He lets;lassen;er lässt
+We let;lassen;wir lassen
+You let (plural);lassen;ihr lasst
+They let;lassen;sie lassen
+
+# --- Verb: stehen (to stand) ---
+
+I stand;stehen;ich stehe
+You stand (informal);stehen;du stehst
+He stands;stehen;er steht
+We stand;stehen;wir stehen
+You stand (plural);stehen;ihr steht
+They stand;stehen;sie stehen
+
+# --- Verb: finden (to find) ---
+
+I find;finden;ich finde
+You find (informal);finden;du findest
+He finds;finden;er findet
+We find;finden;wir finden
+You find (plural);finden;ihr findet
+They find;finden;sie finden
+
+# --- Verb: bleiben (to stay, remain) ---
+
+I stay;bleiben;ich bleibe
+You stay (informal);bleiben;du bleibst
+He stays;bleiben;er bleibt
+We stay;bleiben;wir bleiben
+You stay (plural);bleiben;ihr bleibt
+They stay;bleiben;sie bleiben
+
+# --- Verb: liegen (to lie, be lying) ---
+
+I lie down;liegen;ich liege
+You lie down (informal);liegen;du liegst
+He lies down;liegen;er liegt
+We lie down;liegen;wir liegen
+You lie down (plural);liegen;ihr liegt
+They lie down;liegen;sie liegen
+
+# --- Verb: heißen (to be called) ---
+
+I am called;heißen;ich heiße
+You are called (informal);heißen;du heißt
+He is called;heißen;er heißt
+We are called;heißen;wir heißen
+You are called (plural);heißen;ihr heißt
+They are called;heißen;sie heißen
+
+# --- Verb: denken (to think) ---
+
+I think;denken;ich denke
+You think (informal);denken;du denkst
+He thinks;denken;er denkt
+We think;denken;wir denken
+You think (plural);denken;ihr denkt
+They think;denken;sie denken
+
+# --- Verb: nehmen (to take) ---
+
+I take;nehmen;ich nehme
+You take (informal);nehmen;du nimmst
+He takes;nehmen;er nimmt
+We take;nehmen;wir nehmen
+You take (plural);nehmen;ihr nehmt
+They take;nehmen;sie nehmen
+
+# --- Verb: tun (to do) ---
+
+I do;tun;ich tue
+You do (informal);tun;du tust
+He does;tun;er tut
+We do;tun;wir tun
+You do (plural);tun;ihr tut
+They do;tun;sie tun
+
+# --- Verb: dürfen (may, to be allowed) ---
+
+I may;dürfen;ich darf
+You may (informal);dürfen;du darfst
+He may;dürfen;er darf
+We may;dürfen;wir dürfen
+You may (plural);dürfen;ihr dürft
+They may;dürfen;sie dürfen
+
+# --- Verb: glauben (to believe) ---
+
+I believe;glauben;ich glaube
+You believe (informal);glauben;du glaubst
+He believes;glauben;er glaubt
+We believe;glauben;wir glauben
+You believe (plural);glauben;ihr glaubt
+They believe;glauben;sie glauben
+
+# --- Verb: halten (to stop, hold) ---
+
+I hold;halten;ich halte
+You hold (informal);halten;du hältst
+He holds;halten;er hält
+We hold;halten;wir halten
+You hold (plural);halten;ihr haltet
+They hold;halten;sie halten
+
+# --- Verb: nennen (to name) ---
+
+I name;nennen;ich nenne
+You name (informal);nennen;du nennst
+He names;nennen;er nennt
+We name;nennen;wir nennen
+You name (plural);nennen;ihr nennt
+They name;nennen;sie nennen
+
+# --- Verb: mögen (to like) ---
+
+I like;mögen;ich mag
+You like (informal);mögen;du magst
+He likes;mögen;er mag
+We like;mögen;wir mögen
+You like (plural);mögen;ihr mögt
+They like;mögen;sie mögen
+
+# --- Verb: zeigen (to show) ---
+
+I show;zeigen;ich zeige
+You show (informal);zeigen;du zeigst
+He shows;zeigen;er zeigt
+We show;zeigen;wir zeigen
+You show (plural);zeigen;ihr zeigt
+They show;zeigen;sie zeigen
+
+# --- Verb: führen (to lead) ---
+
+I lead;führen;ich führe
+You lead (informal);führen;du führst
+He leads;führen;er führt
+We lead;führen;wir führen
+You lead (plural);führen;ihr führt
+They lead;führen;sie führen
+
+# --- Verb: sprechen (to speak) ---
+
+I speak;sprechen;ich spreche
+You speak (informal);sprechen;du sprichst
+He speaks;sprechen;er spricht
+We speak;sprechen;wir sprechen
+You speak (plural);sprechen;ihr sprecht
+They speak;sprechen;sie sprechen
+
+# --- Verb: bringen (to bring, take) ---
+
+I bring;bringen;ich bringe
+You bring (informal);bringen;du bringst
+He brings;bringen;er bringt
+We bring;bringen;wir bringen
+You bring (plural);bringen;ihr bringt
+They bring;bringen;sie bringen
+
+# --- Verb: leben (to live) ---
+
+I live;leben;ich lebe
+You live (informal);leben;du lebst
+He lives;leben;er lebt
+We live;leben;wir leben
+You live (plural);leben;ihr lebt
+They live;leben;sie leben
+
+# --- Verb: fahren (to drive, ride, go) ---
+
+I drive;fahren;ich fahre
+You drive (informal);fahren;du fährst
+He drives;fahren;er fährt
+We drive;fahren;wir fahren
+You drive (plural);fahren;ihr fahrt
+They drive;fahren;sie fahren
+
+# --- Verb: meinen (to think, have an opinion) ---
+
+I think;meinen;ich meine
+You think (informal);meinen;du meinst
+He thinks;meinen;er meint
+We think;meinen;wir meinen
+You think (plural);meinen;ihr meint
+They think;meinen;sie meinen
+
+# --- Verb: fragen (to ask) ---
+
+I ask;fragen;ich frage
+You ask (informal);fragen;du fragst
+He asks;fragen;er fragt
+We ask;fragen;wir fragen
+You ask (plural);fragen;ihr fragt
+They ask;fragen;sie fragen
+
+# --- Verb: kennen (to know) ---
+
+I know;kennen;ich kenne
+You know (informal);kennen;du kennst
+He knows;kennen;er kennt
+We know;kennen;wir kennen
+You know (plural);kennen;ihr kennt
+They know;kennen;sie kennen
+
+# --- Verb: gelten (to be valid) ---
+
+I am valid;gelten;ich gelte
+You are valid (informal);gelten;du giltst
+It is valid;gelten;es gilt
+We are valid;gelten;wir gelten
+You are valid (plural);gelten;ihr geltet
+They are valid;gelten;sie gelten
+
+# --- Verb: stellen (to place, set) ---
+
+I place;stellen;ich stelle
+You place (informal);stellen;du stellst
+He places;stellen;er stellt
+We place;stellen;wir stellen
+You place (plural);stellen;ihr stellt
+They place;stellen;sie stellen
+
+# --- Verb: spielen (to play) ---
+
+I play;spielen;ich spiele
+You play (informal);spielen;du spielst
+He plays;spielen;er spielt
+We play;spielen;wir spielen
+You play (plural);spielen;ihr spielt
+They play;spielen;sie spielen
+
+# --- Verb: arbeiten (to work) ---
+
+I work;arbeiten;ich arbeite
+You work (informal);arbeiten;du arbeitest
+He works;arbeiten;er arbeitet
+We work;arbeiten;wir arbeiten
+You work (plural);arbeiten;ihr arbeitet
+They work;arbeiten;sie arbeiten
+
+# --- Verb: brauchen (to need) ---
+
+I need;brauchen;ich brauche
+You need (informal);brauchen;du brauchst
+He needs;brauchen;er braucht
+We need;brauchen;wir brauchen
+You need (plural);brauchen;ihr braucht
+They need;brauchen;sie brauchen
+
+# --- Verb: folgen (to follow) ---
+
+I follow;folgen;ich folge
+You follow (informal);folgen;du folgst
+He follows;folgen;er folgt
+We follow;folgen;wir folgen
+You follow (plural);folgen;ihr folgt
+They follow;folgen;sie folgen
+
+# --- Verb: lernen (to learn) ---
+
+I learn;lernen;ich lerne
+You learn (informal);lernen;du lernst
+He learns;lernen;er lernt
+We learn;lernen;wir lernen
+You learn (plural);lernen;ihr lernt
+They learn;lernen;sie lernen
+
+# --- Verb: bestehen (to exist, pass) ---
+
+I exist;bestehen;ich bestehe
+You exist (informal);bestehen;du bestehst
+It exists;bestehen;es besteht
+We exist;bestehen;wir bestehen
+You exist (plural);bestehen;ihr besteht
+They exist;bestehen;sie bestehen
+
+# --- Verb: verstehen (to understand) ---
+
+I understand;verstehen;ich verstehe
+You understand (informal);verstehen;du verstehst
+He understands;verstehen;er versteht
+We understand;verstehen;wir verstehen
+You understand (plural);verstehen;ihr versteht
+They understand;verstehen;sie verstehen
+
+# --- Verb: setzen (to set, put, place) ---
+
+I set;setzen;ich setze
+You set (informal);setzen;du setzt
+He sets;setzen;er setzt
+We set;setzen;wir setzen
+You set (plural);setzen;ihr setzt
+They set;setzen;sie setzen
+
+# --- Verb: bekommen (to get, receive) ---
+
+I get;bekommen;ich bekomme
+You get (informal);bekommen;du bekommst
+He gets;bekommen;er bekommt
+We get;bekommen;wir bekommen
+You get (plural);bekommen;ihr bekommt
+They get;bekommen;sie bekommen
+
+# --- Verb: beginnen (to begin) ---
+
+I begin;beginnen;ich beginne
+You begin (informal);beginnen;du beginnst
+It begins;beginnen;es beginnt
+We begin;beginnen;wir beginnen
+You begin (plural);beginnen;ihr beginnt
+They begin;beginnen;sie beginnen
+
+# --- Verb: erzählen (to narrate, tell) ---
+
+I tell;erzählen;ich erzähle
+You tell (informal);erzählen;du erzählst
+He tells;erzählen;er erzählt
+We tell;erzählen;wir erzählen
+You tell (plural);erzählen;ihr erzählt
+They tell;erzählen;sie erzählen
+
+# --- Verb: versuchen (to try, attempt) ---
+
+I try;versuchen;ich versuche
+You try (informal);versuchen;du versuchst
+He tries;versuchen;er versucht
+We try;versuchen;wir versuchen
+You try (plural);versuchen;ihr versucht
+They try;versuchen;sie versuchen
+
+# --- Verb: schreiben (to write) ---
+
+I write;schreiben;ich schreibe
+You write (informal);schreiben;du schreibst
+He writes;schreiben;er schreibt
+We write;schreiben;wir schreiben
+You write (plural);schreiben;ihr schreibt
+They write;schreiben;sie schreiben
+
+# --- Verb: laufen (to run) ---
+
+I run;laufen;ich laufe
+You run (informal);laufen;du läufst
+He runs;laufen;er läuft
+We run;laufen;wir laufen
+You run (plural);laufen;ihr lauft
+They run;laufen;sie laufen
+
+# --- Verb: erklären (to explain) ---
+
+I explain;erklären;ich erkläre
+You explain (informal);erklären;du erklärst
+He explains;erklären;er erklärt
+We explain;erklären;wir erklären
+You explain (plural);erklären;ihr erklärt
+They explain;erklären;sie erklären
+
+# --- Verb: entsprechen (to correspond) ---
+
+I correspond;entsprechen;ich entspreche
+You correspond (informal);entsprechen;du entsprichst
+It corresponds;entsprechen;es entspricht
+We correspond;entsprechen;wir entsprechen
+You correspond (plural);entsprechen;ihr entsprecht
+They correspond;entsprechen;sie entsprechen
+
+# --- Verb: sitzen (to sit) ---
+
+I sit;sitzen;ich sitze
+You sit (informal);sitzen;du sitzt
+He sits;sitzen;er sitzt
+We sit;sitzen;wir sitzen
+You sit (plural);sitzen;ihr sitzt
+They sit;sitzen;sie sitzen
+
+# --- Verb: ziehen (to pull, move) ---
+
+I pull;ziehen;ich ziehe
+You pull (informal);ziehen;du ziehst
+He pulls;ziehen;er zieht
+We pull;ziehen;wir ziehen
+You pull (plural);ziehen;ihr zieht
+They pull;ziehen;sie ziehen
+
+# --- Verb: scheinen (to shine, seem, appear) ---
+
+I shine;scheinen;ich scheine
+You shine (informal);scheinen;du scheinst
+The sun shines;scheinen;die Sonne scheint
+We shine;scheinen;wir scheinen
+You shine (plural);scheinen;ihr scheint
+They shine;scheinen;sie scheinen
+
+# --- Verb: fallen (to fall) ---
+
+I fall;fallen;ich falle
+You fall (informal);fallen;du fällst
+He falls;fallen;er fällt
+We fall;fallen;wir fallen
+You fall (plural);fallen;ihr fallt
+They fall;fallen;sie fallen
+
+# --- Verb: gehören (to belong) ---
+
+I belong;gehören;ich gehöre
+You belong (informal);gehören;du gehörst
+It belongs;gehören;es gehört
+We belong;gehören;wir gehören
+You belong (plural);gehören;ihr gehört
+They belong;gehören;sie gehören
+
+# --- Verb: entstehen (to originate, develop) ---
+
+I originate;entstehen;ich entstehe
+You originate (informal);entstehen;du entstehst
+It originates;entstehen;es entsteht
+We originate;entstehen;wir entstehen
+You originate (plural);entstehen;ihr entsteht
+They originate;entstehen;sie entstehen
+
+# --- Verb: erhalten (to receive) ---
+
+I receive;erhalten;ich erhalte
+You receive (informal);erhalten;du erhältst
+He receives;erhalten;er erhält
+We receive;erhalten;wir erhalten
+You receive (plural);erhalten;ihr erhaltet
+They receive;erhalten;sie erhalten
+
+# --- Verb: treffen (to meet) ---
+
+I meet;treffen;ich treffe
+You meet (informal);treffen;du triffst
+He meets;treffen;er trifft
+We meet;treffen;wir treffen
+You meet (plural);treffen;ihr trefft
+They meet;treffen;sie treffen
+
+# --- Verb: suchen (to search, look for) ---
+
+I search;suchen;ich suche
+You search (informal);suchen;du suchst
+He searches;suchen;er sucht
+We search;suchen;wir suchen
+You search (plural);suchen;ihr sucht
+They search;suchen;sie suchen
+
+# --- Verb: legen (to lay, put) ---
+
+I lay;legen;ich lege
+You lay (informal);legen;du legst
+He lays;legen;er legt
+We lay;legen;wir legen
+You lay (plural);legen;ihr legt
+They lay;legen;sie legen
+
+# --- Verb: vor·stellen (to introduce, imagine) ---
+
+I introduce;vor·stellen;ich stelle vor
+You introduce (informal);vor·stellen;du stellst vor
+He introduces;vor·stellen;er stellt vor
+We introduce;vor·stellen;wir stellen vor
+You introduce (plural);vor·stellen;ihr stellt vor
+They introduce;vor·stellen;sie stellen vor
+
+# --- Verb: handeln (to deal, trade) ---
+
+I deal;handeln;ich handle
+You deal (informal);handeln;du handelst
+He deals;handeln;er handelt
+We deal;handeln;wir handeln
+You deal (plural);handeln;ihr handelt
+They deal;handeln;sie handeln
+
+# --- Verb: erreichen (to achieve, reach) ---
+
+I reach;erreichen;ich erreiche
+You reach (informal);erreichen;du erreichst
+He reaches;erreichen;er erreicht
+We reach;erreichen;wir erreichen
+You reach (plural);erreichen;ihr erreicht
+They reach;erreichen;sie erreichen
+
+# --- Verb: tragen (to carry, wear) ---
+
+I wear;tragen;ich trage
+You wear (informal);tragen;du trägst
+He wears;tragen;er trägt
+We wear;tragen;wir tragen
+You wear (plural);tragen;ihr tragt
+They wear;tragen;sie tragen
+
+# --- Verb: schaffen (to manage, create) ---
+
+I manage;schaffen;ich schaffe
+You manage (informal);schaffen;du schaffst
+He manages;schaffen;er schafft
+We manage;schaffen;wir schaffen
+You manage (plural);schaffen;ihr schafft
+They manage;schaffen;sie schaffen
+
+# --- Verb: lesen (to read) ---
+
+I read;lesen;ich lese
+You read (informal);lesen;du liest
+He reads;lesen;er liest
+We read;lesen;wir lesen
+You read (plural);lesen;ihr lest
+They read;lesen;sie lesen
+
+# --- Verb: verlieren (to lose) ---
+
+I lose;verlieren;ich verliere
+You lose (informal);verlieren;du verlierst
+He loses;verlieren;er verliert
+We lose;verlieren;wir verlieren
+You lose (plural);verlieren;ihr verliert
+They lose;verlieren;sie verlieren
+
+# --- Verb: dar·stellen (to depict, portray) ---
+
+I depict;dar·stellen;ich stelle dar
+You depict (informal);dar·stellen;du stellst dar
+It depicts;dar·stellen;es stellt dar
+We depict;dar·stellen;wir stellen dar
+You depict (plural);dar·stellen;ihr stellt dar
+They depict;dar·stellen;sie stellen dar
+
+# --- Verb: erkennen (to recognize, admit) ---
+
+I recognize;erkennen;ich erkenne
+You recognize (informal);erkennen;du erkennst
+He recognizes;erkennen;er erkennt
+We recognize;erkennen;wir erkennen
+You recognize (plural);erkennen;ihr erkennt
+They recognize;erkennen;sie erkennen
+
+# --- Verb: entwickeln (to develop) ---
+
+I develop;entwickeln;ich entwickle
+You develop (informal);entwickeln;du entwickelst
+He develops;entwickeln;er entwickelt
+We develop;entwickeln;wir entwickeln
+You develop (plural);entwickeln;ihr entwickelt
+They develop;entwickeln;sie entwickeln
+
+# --- Verb: reden (to talk) ---
+
+I talk;reden;ich rede
+You talk (informal);reden;du redest
+He talks;reden;er redet
+We talk;reden;wir reden
+You talk (plural);reden;ihr redet
+They talk;reden;sie reden
+
+# --- Verb: aus·sehen (to appear, look) ---
+
+I look good;aus·sehen;ich sehe gut aus
+You look good (informal);aus·sehen;du siehst gut aus
+He looks good;aus·sehen;er sieht gut aus
+We look good;aus·sehen;wir sehen gut aus
+You look good (plural);aus·sehen;ihr seht gut aus
+They look good;aus·sehen;sie sehen gut aus
+
+# --- Verb: erscheinen (to appear) ---
+
+I appear;erscheinen;ich erscheine
+You appear (informal);erscheinen;du erscheinst
+He appears;erscheinen;er erscheint
+We appear;erscheinen;wir erscheinen
+You appear (plural);erscheinen;ihr erscheint
+They appear;erscheinen;sie erscheinen
+
+# --- Verb: bilden (to form, educate) ---
+
+I form;bilden;ich bilde
+You form (informal);bilden;du bildest
+He forms;bilden;er bildet
+We form;bilden;wir bilden
+You form (plural);bilden;ihr bildet
+They form;bilden;sie bilden
+
+# --- Verb: an·fangen (to begin) ---
+
+I begin;an·fangen;ich fange an
+You begin (informal);an·fangen;du fängst an
+He begins;an·fangen;er fängt an
+We begin;an·fangen;wir fangen an
+You begin (plural);an·fangen;ihr fangt an
+They begin;an·fangen;sie fangen an
+
+# --- Verb: erwarten (to expect) ---
+
+I expect;erwarten;ich erwarte
+You expect (informal);erwarten;du erwartest
+He expects;erwarten;er erwartet
+We expect;erwarten;wir erwarten
+You expect (plural);erwarten;ihr erwartet
+They expect;erwarten;sie erwarten
+
+# --- Verb: wohnen (to live, reside) ---
+
+I live;wohnen;ich wohne
+You live (informal);wohnen;du wohnst
+He lives;wohnen;er wohnt
+We live;wohnen;wir wohnen
+You live (plural);wohnen;ihr wohnt
+They live;wohnen;sie wohnen
+
+# --- Verb: betreffen (to affect, concern) ---
+
+I concern;betreffen;ich betreffe
+You concern (informal);betreffen;du betriffst
+It concerns;betreffen;es betrifft
+We concern;betreffen;wir betreffen
+You concern (plural);betreffen;ihr betreffet
+They concern;betreffen;sie betreffen
+
+# --- Verb: warten (to wait) ---
+
+I wait;warten;ich warte
+You wait (informal);warten;du wartest
+He waits;warten;er wartet
+We wait;warten;wir warten
+You wait (plural);warten;ihr wartet
+They wait;warten;sie warten
+
+# --- Verb: vergehen (to elapse, decay) ---
+
+I decay;vergehen;ich vergehe
+You decay (informal);vergehen;du vergehst
+It elapses;vergehen;es vergeht
+We decay;vergehen;wir vergehen
+You decay (plural);vergehen;ihr vergeht
+They decay;vergehen;sie vergehen
+
+# --- Verb: helfen (to help) ---
+
+I help;helfen;ich helfe
+You help (informal);helfen;du hilfst
+He helps;helfen;er hilft
+We help;helfen;wir helfen
+You help (plural);helfen;ihr helft
+They help;helfen;sie helfen
+
+# --- Verb: gewinnen (to win) ---
+
+I win;gewinnen;ich gewinne
+You win (informal);gewinnen;du gewinnst
+He wins;gewinnen;er gewinnt
+We win;gewinnen;wir gewinnen
+You win (plural);gewinnen;ihr gewinnt
+They win;gewinnen;sie gewinnen
+
+# --- Verb: schließen (to close) ---
+
+I close;schließen;ich schließe
+You close (informal);schließen;du schließt
+He closes;schließen;er schließt
+We close;schließen;wir schließen
+You close (plural);schließen;ihr schließt
+They close;schließen;sie schließen
+
+# --- Verb: fühlen (to feel) ---
+
+I feel;fühlen;ich fühle
+You feel (informal);fühlen;du fühlst
+He feels;fühlen;er fühlt
+We feel;fühlen;wir fühlen
+You feel (plural);fühlen;ihr fühlt
+They feel;fühlen;sie fühlen
+
+# --- Verb: bieten (to offer) ---
+
+I offer;bieten;ich biete
+You offer (informal);bieten;du bietest
+He offers;bieten;er bietet
+We offer;bieten;wir bieten
+You offer (plural);bieten;ihr bietet
+They offer;bieten;sie bieten
+
+# --- Verb: interessieren (to interest) ---
+
+I interest;interessieren;ich interessiere
+You interest (informal);interessieren;du interessierst
+It interests;interessieren;es interessiert
+We interest;interessieren;wir interessieren
+You interest (plural);interessieren;ihr interessiert
+They interest;interessieren;sie interessieren
+
+# --- Verb: erinnern (to remember) ---
+
+I remember;erinnern;ich erinnere
+You remember (informal);erinnern;du erinnerst
+He remembers;erinnern;er erinnert
+We remember;erinnern;wir erinnern
+You remember (plural);erinnern;ihr erinnert
+They remember;erinnern;sie erinnern
+
+# --- Verb: ergeben (to result in) ---
+
+I result in;ergeben;ich ergebe
+You result in (informal);ergeben;du ergibst
+It results in;ergeben;es ergibt
+We result in;ergeben;wir ergeben
+You result in (plural);ergeben;ihr ergebt
+They result in;ergeben;sie ergeben
+
+# --- Verb: an·bieten (to offer) ---
+
+I offer;an·bieten;ich biete an
+You offer (informal);an·bieten;du bietest an
+He offers;an·bieten;er bietet an
+We offer;an·bieten;wir bieten an
+You offer (plural);an·bieten;ihr bietet an
+They offer;an·bieten;sie bieten an
+
+# --- Verb: studieren (to study) ---
+
+I study;studieren;ich studiere
+You study (informal);studieren;du studierst
+He studies;studieren;er studiert
+We study;studieren;wir studieren
+You study (plural);studieren;ihr studiert
+They study;studieren;sie studieren
+
+# --- Verb: verbinden (to connect, link) ---
+
+I connect;verbinden;ich verbinde
+You connect (informal);verbinden;du verbindest
+He connects;verbinden;er verbindet
+We connect;verbinden;wir verbinden
+You connect (plural);verbinden;ihr verbindet
+They connect;verbinden;sie verbinden
+
+# --- Verb: an·sehen (to look at, watch) ---
+
+I look at;an·sehen;ich sehe an
+You look at (informal);an·sehen;du siehst an
+He looks at;an·sehen;er sieht an
+We look at;an·sehen;wir sehen an
+You look at (plural);an·sehen;ihr seht an
+They look at;an·sehen;sie sehen an
+
+# --- Verb: fehlen (to lack, be missing) ---
+
+I am missing;fehlen;ich fehle
+You are missing (informal);fehlen;du fehlst
+He is missing;fehlen;er fehlt
+We are missing;fehlen;wir fehlen
+You are missing (plural);fehlen;ihr fehlt
+They are missing;fehlen;sie fehlen
+
+# --- Verb: bedeuten (to mean) ---
+
+I mean;bedeuten;ich bedeute
+You mean (informal);bedeuten;du bedeutest
+It means;bedeuten;es bedeutet
+We mean;bedeuten;wir bedeuten
+You mean (plural);bedeuten;ihr bedeutet
+They mean;bedeuten;sie bedeuten
+
+# --- Verb: vergleichen (to compare) ---
+
+I compare;vergleichen;ich vergleiche
+You compare (informal);vergleichen;du vergleichst
+He compares;vergleichen;er vergleicht
+We compare;vergleichen;wir vergleichen
+You compare (plural);vergleichen;ihr vergleicht
+They compare;vergleichen;sie vergleichen
