@@ -1,47 +1,59 @@
-from questions import Question
 import random
 
+
 class Quiz:
-    """
-    Manages the quiz logic, including questions, scoring, and progress.
-    """
-    def __init__(self, questions: list[Question]):
-        if not questions:
-            raise ValueError("Cannot create a quiz with no questions.")
-        self.questions = questions
-        self.total_questions = len(self.questions)
+    def __init__(self, questions, num_questions=None):
+        """
+        Initializes the quiz.
+        :param questions: A list of Question objects.
+        :param num_questions: The number of questions to include in the quiz.
+                            If None or greater than available, all questions are used.
+        """
+
+        # Determine how many questions to sample
+        num_to_sample = len(questions)
+        if num_questions is not None and num_questions > 0 and num_questions < len(questions):
+            num_to_sample = num_questions
+
+        # Randomly sample the desired number of questions
+        # This both shuffles and selects the right number.
+        self.questions = random.sample(questions, num_to_sample)
+
         self.current_question_index = 0
         self.score = 0
-        # Shuffle the questions for a different order each time
-        random.shuffle(self.questions)
+        # The total number of questions is now the length of our sampled list
+        self.total_questions = len(self.questions)
 
-    def get_current_question(self) -> Question:
-        """Returns the current question."""
+    def get_current_question(self):
+        """Returns the current Question object."""
         if not self.is_finished():
             return self.questions[self.current_question_index]
         return None
 
-    def check_answer(self, user_answer: str) -> bool:
-        """
-        Checks the user's answer against the correct one.
-        Updates the score if correct.
-        """
-        current_question = self.get_current_question()
-        # Case-insensitive and strip whitespace for flexible checking
-        is_correct = user_answer.strip().lower() == current_question.german_answer.strip().lower()
+    def check_answer(self, user_answer):
+        """Checks the user's answer and updates the score."""
+        question = self.get_current_question()
+        if not question:
+            return False
+
+        # Case-insensitive and strip whitespace for more lenient checking
+        is_correct = user_answer.strip().lower() == question.german_answer.strip().lower()
+
         if is_correct:
             self.score += 1
+
         return is_correct
 
     def next_question(self):
-        """Moves to the next question."""
-        if self.current_question_index < self.total_questions:
+        """Advances to the next question."""
+        if not self.is_finished():
             self.current_question_index += 1
 
-    def is_finished(self) -> bool:
-        """Checks if the quiz has ended."""
+    def is_finished(self):
+        """Returns True if the quiz is over, False otherwise."""
         return self.current_question_index >= self.total_questions
 
-    def get_score(self) -> tuple[int, int]:
-        """Returns the current score and the total number of questions."""
+    def get_score(self):
+        """Returns the current score and total number of questions."""
         return self.score, self.total_questions
+
