@@ -96,7 +96,8 @@ def main():
     # Load and display the popover
     cheat_sheet_df = load_cheat_sheet()
     if cheat_sheet_df is not None:
-        with st.popover("📚 Pronoun & Endings Cheat Sheet"):
+        # Add use_container_width=True to the popover itself
+        with st.popover("📚 Pronoun & Endings Cheat Sheet", use_container_width=True):
             st.dataframe(cheat_sheet_df, hide_index=True, use_container_width=True)
 
     initialize_session_state()
@@ -143,3 +144,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
