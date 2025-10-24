@@ -142,6 +142,9 @@ def main():
             st.session_state.quiz_state = 'finished'
             st.rerun()
         else:
+            # Display current question number
+            st.caption(f"Question {quiz.current_question_index + 1} / {quiz.total_questions}")
+
             current_question = quiz.get_current_question()
             display_question(current_question)
 
@@ -165,7 +168,13 @@ def main():
             display_feedback()
 
             if st.session_state.show_next_button:
-                st.button("➡️ Next Question", on_click=handle_next_question)
+                # Check if this is the last question
+                is_last_question = quiz.current_question_index == quiz.total_questions - 1
+
+                if is_last_question:
+                    st.button("🏁 Finish Quiz", on_click=handle_next_question)
+                else:
+                    st.button("➡️ Next Question", on_click=handle_next_question)
 
     # --- State 3: Quiz Finished ---
     elif st.session_state.quiz_state == 'finished':
@@ -176,8 +185,10 @@ def main():
         st.metric(label="Your Score", value=f"{score}/{total}", delta=f"{percentage:.1f}%")
 
         # The on_click callback handles resetting the state
+        # FIX: Changed 'on_config' to 'on_click'
         st.button("🔄 Practice Again", on_click=reset_quiz)
 
 
 if __name__ == "__main__":
     main()
+

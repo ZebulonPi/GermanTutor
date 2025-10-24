@@ -36,8 +36,14 @@ class Quiz:
         if not question:
             return False
 
-        # Case-insensitive and strip whitespace for more lenient checking
-        is_correct = user_answer.strip().lower() == question.german_answer.strip().lower()
+        # FIX: Normalize whitespace to handle extra spaces from user input
+        # .lower() converts to lowercase
+        # .split() creates a list of words, removing all extra whitespace
+        # " ".join(...) reassembles the string with single spaces
+        user_clean = " ".join(user_answer.lower().split())
+        answer_clean = " ".join(question.german_answer.lower().split())
+
+        is_correct = user_clean == answer_clean
 
         if is_correct:
             self.score += 1
